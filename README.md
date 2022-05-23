@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-contatdor de pessoas
+contador de pessoas
 
 ## Getting Started
 
